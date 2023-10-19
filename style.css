@@ -1,4 +1,4 @@
-h1 {
+h1{
     text-align: center;
     font-size: 40px;
     color: rgb(251, 234, 107);
@@ -6,7 +6,7 @@ h1 {
 body {
 background-color: rgb(0, 0, 0);
 }
- .gato {
+ .gato{
     width: 20%;
     height: 20%;
 }
@@ -14,9 +14,6 @@ P{
  text-align: center;
  font-size: 30px ;   
  color: rgb(251, 234, 107);
-}
-.ini{
- background-image: url("gatinho-preguicoso1.jpg");
 }
 .button{
 display: inline-block;
