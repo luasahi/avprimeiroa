@@ -1,10 +1,10 @@
 h1{
 text-align: center;
-font-size: 40px;
+font-size: 50px;
 color: rgb(251, 234, 107);
 }
 body {
-background-color: rgb(0, 0, 0);
+background-color: rgb(174, 219, 231);
 }
  .gato{
 width: 20%;
@@ -12,7 +12,7 @@ height: 20%;
 }
 P{
 text-align: center;
-font-size: 40px ;   
+font-size: 20px ;   
 color: rgb(255, 247, 188);
 }
 .button{
